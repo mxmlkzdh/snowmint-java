@@ -1,2 +1,2 @@
-# snowmint-java
-The SnowMint Client SDK in Java
+# The SnowMint Client SDK in Java
+Coming soon!
